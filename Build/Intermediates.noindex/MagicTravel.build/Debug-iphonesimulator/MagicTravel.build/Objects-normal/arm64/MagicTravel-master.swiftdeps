@@ -1,8 +1,0 @@
-version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
-options: "180e7f08ac84fa5123900ed37f837354062ad89fbcb01d94571d2bd44fed77c5"
-build_start_time: [1712582293, 172877000]
-build_end_time: [1712582294, 343661000]
-inputs:
-  "/Users/ElcomSoft/Desktop/iOS_dev/MagicTravel/MagicTravel/AppDelegate.swift": [1712430243, 395056718]
-  "/Users/ElcomSoft/Desktop/iOS_dev/MagicTravel/MagicTravel/SceneDelegate.swift": [1712430243, 400513070]
-  "/Users/ElcomSoft/Desktop/iOS_dev/MagicTravel/MagicTravel/ViewController.swift": [1712582292, 266028126]
