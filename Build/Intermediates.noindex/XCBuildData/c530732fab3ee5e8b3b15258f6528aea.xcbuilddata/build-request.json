@@ -1,0 +1,62 @@
+{
+  "buildCommand" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "e8ce0e19795409a571c5dfc3f3347e9aee3548d1b11ce2dc9c174767a5ba7183"
+    }
+  ],
+  "containerPath" : "/Users/ElcomSoft/Desktop/iOS_dev/MagicTravel/MagicTravel.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator16.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ElcomSoft/Desktop/iOS_dev/MagicTravel/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ElcomSoft/Desktop/iOS_dev/MagicTravel/Build/Products",
+      "derivedDataPath" : "/Users/ElcomSoft/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ElcomSoft/Library/Developer/Xcode/DerivedData/MagicTravel-akzvxskxzquhwcaixsfzwwtymyvt/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ElcomSoft/Library/Developer/Xcode/DerivedData/MagicTravel-akzvxskxzquhwcaixsfzwwtymyvt/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ElcomSoft/Desktop/iOS_dev/MagicTravel/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone15,2",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "16.4",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone15,2",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "D17C4C03-9DCE-4538-A948-3BBF2390D06D",
+          "TARGET_DEVICE_MODEL" : "iPhone15,2",
+          "TARGET_DEVICE_OS_VERSION" : "16.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
